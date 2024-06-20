@@ -3,7 +3,7 @@
 ## Get Started
 
 1. `git clone`
-2. 環境内の`project-name`をすべて置換（package-lock.json以外）
+2. 環境内の`project-named`をすべて置換（package-lock.json以外）
 3. `docker compose build`
 4. `docker compose up -d`
 5. localhost:3000を叩く
